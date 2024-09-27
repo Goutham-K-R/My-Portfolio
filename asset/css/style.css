@@ -31,8 +31,8 @@ body {
 :root {
     --bg-color: #1f242d;
     --second-bg-color: #323946;
-    --text-color: #fff;
-    --main-color: #0ef;
+    --text-color: hwb(0 100% 0%);
+    --main-color: rgb(38, 210, 101);
 }
 
 html {
